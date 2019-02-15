@@ -102,3 +102,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+weights/model.h5
+data/glove.6B.100d.txt
+data/small_vocab_en
+data/small_vocab_fr
