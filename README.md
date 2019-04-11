@@ -1,7 +1,7 @@
 # Neural-Machine-Translation
 Neural Machine Translation by Seq2Seq Model with Attention layer
 
-This is a sample neural machine translation project with converts english to french.
+This is a sample neural machine translation project with converts english to french. Don't expect it to perform as good as google translate because it had been trained on very small dataset. You can train on big dataset and I'm sure it will perform good.
 
 ## Overview
 * It is based on Seq2Seq Rnn model with attention layer.<br/>
