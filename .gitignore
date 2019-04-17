@@ -107,3 +107,5 @@ weights/model.h5
 data/glove.6B.100d.txt
 data/small_vocab_en
 data/small_vocab_fr
+data/glove.twitter.27B.100d.txt
+data/gloveWord2Vec.json
